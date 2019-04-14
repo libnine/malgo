@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "C:\\Users\\KeyrusAdmin\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "git.ignoreLimitWarning": true
+}
