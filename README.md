@@ -1,4 +1,4 @@
-# Garrett Brigman
+# Mongo, Python, & Stocks
 
 ## Getting Started
 
